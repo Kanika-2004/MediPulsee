@@ -5,6 +5,7 @@ import Head from "next/head";
 
 export default function Page() {
   return (
+    <>
     <div>
       <Head>
         <title>Sentry Onboarding</title>
@@ -68,7 +69,7 @@ export default function Page() {
 
         <p>
           Next, look for the error on the{" "}
-          <a href="https://javascript-mastery.sentry.io/issues/?project=4507458386526208">
+          <a href="https://5dcc01584a9b.sentry.io/issues/?project=4507458386526208">
             Issues Page
           </a>
           .
@@ -81,5 +82,6 @@ export default function Page() {
         </p>
       </main>
     </div>
+    </>
   );
 }

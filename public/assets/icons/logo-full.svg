@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <!-- Medical Icon (Stylized Heart and Cross) -->
+  <g>
+    <rect x="50" y="85" width="70" height="120" fill="#4caf50"/>
+    <rect x="120" y="130" width="70" height="120" fill="#4caf50"/>
+    <rect x="85" y="100" width="140" height="60" fill="#4caf50"/>
+  </g>
+  
+  <!-- Text "Medipulse" -->
+  <text x="220" y="180" font-family="Arial, sans-serif" font-size="120" fill="white">Medipulse</text>
+</svg>
